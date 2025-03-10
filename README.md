@@ -19,3 +19,4 @@ This project predicts whether an individual's income exceeds $50K based on demog
 1. Clone this repository: `git clone https://github.com/YOUR-USERNAME/income_prediction_project.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `income_prediction.ipynb` in Jupyter Notebook.
+4. Edit the paths for the input census_income_learn.csv & census_income_test.csv files as well as the paths to save the processed files.
