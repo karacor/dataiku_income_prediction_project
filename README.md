@@ -4,7 +4,7 @@ This project predicts whether an individual's income exceeds $50K based on demog
 ## Contents
 - Jupyter Notebook (`dataiku.ipynb`)
 - Presentation (`Census Income Classification Project.pptx & pdf`)
-- Dataset: Census Income Data (not included here)
+- Dataset: Census Income Data for the years 1994 & 1995 (not included here)
 
 ## Models Used
 - CatBoost
